@@ -1,0 +1,11 @@
+#ingredient {
+    color: aqua;
+    font-weight: 300;
+    font-family: fantasy;
+}
+
+#procedure {
+    color: hsla(294 70% 44% / 0.59);
+    font-weight: 700;
+    font-family: Luminari, fantasy;
+}
