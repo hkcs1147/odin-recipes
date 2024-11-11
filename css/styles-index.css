@@ -8,4 +8,8 @@ h1 {
 
 a {
     font-family: cursive;
+    display: inline-block;
+    margin: auto 2px;
+    padding: 2px 5px;
+    border: 1px solid black;
 }
